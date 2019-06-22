@@ -1,6 +1,6 @@
 # abandoned_basket
 
-Desafio proposto pela B2W Digital para aplicação de vaga Engenheiro de dados.
+Desafio proposto pela B2W Digital
 
 
 ## Ambiente
