@@ -5,16 +5,16 @@ Desafio proposto para vaga de engenheiro de dados.
 
 ## Ambiente
 
-Para a execução do teste pode-se utilizar dessas configurações ou executar no google colab (https://colab.research.google.com/),
-no qual tem todo ambiente configurado para executar o teste, ou pode executar localmente. 
+Para a execução do teste pode-se utilizar google colab (https://colab.research.google.com/),
+no qual tem todo ambiente configurado para executar o teste, ou pode executar localmente, com as seguintes configurações. 
 
 Para testar em uma máquina local, é necessário utilizar as seguintes configurações:
 *	Versão do Python 2.7.15
 *	apache-beam 2.13.0
 ## Arquivos
-* **abandoned-basket-only-python.py** (Apresenta do desafio sem implementar utilizar o apache beam)
+* **abandoned-basket-only-python.py** (Neste arquivo consta a resolução parcial do desafio sem implementar o pipeline do Apache Beam)
 * **abandoned-basket-trying-use-pipeline.py** (Neste arquivo é apresentado como seria a estrutura se 
-conseguisse implementar utilizando o apache beam )
+conseguisse implementar utilizando o Apache Beam)
 * **input** (Nesse diretório está o arquivo no qual contém uma arquivo com a extensão (.json))
 * **output** (Nesse diretório está o arquivo de saída, conforme o teste solicita.)
 ## Abordagem do desafio
